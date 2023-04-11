@@ -1,0 +1,10 @@
+<div class="bevy-instance">
+  <canvas id="bevy" class="bevy-instance__canvas" width="800" height="800"></canvas>
+</div>
+
+<script type="module">
+  import '/js/restart-audio-context.js'
+  import init from '/js/asteroids/bevy_game.js'
+  const canvasEl = document.getElementById('bevy');
+  init()
+</script>
