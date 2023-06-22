@@ -6,7 +6,7 @@ permalink: /projects/forthehometeam
 I am convinced that in my life time, I have seen my favorite teams lose more than win, when I actively attend or watch games. Rather than believe the likely explanation that my favorite teams simply underperform, I've chosen to spend many hours
 tracking the Cubs games I watch and seeing how the numbers stack up throughout the 2023 season. This naturally spiraled into comparing not just wins and losses, but also the stats of individual players.
 
-These stats are current as of June 19th, 2023. (And hopefully this will be automated in the near future.)
+These stats are current as of June 21st, 2023. (And hopefully this will be automated in the near future.)
 
 ### Win Rate
 
