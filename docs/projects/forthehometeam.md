@@ -6,7 +6,7 @@ permalink: /projects/forthehometeam
 I am convinced that in my life time, I have seen my favorite teams lose more than win, when I actively attend or watch games. Rather than believe the likely explanation that my favorite teams simply underperform, I've chosen to spend many hours
 tracking the Cubs games I watch and seeing how the numbers stack up throughout the 2023 season. This naturally spiraled into comparing not just wins and losses, but also the stats of individual players.
 
-These stats are current as of June 24th, 2023. (And hopefully this will be automated in the near future.)
+These stats are current as of June 25th, 2023. (And hopefully this will be automated in the near future.)
 
 ### Win Rate
 
@@ -28,7 +28,7 @@ These stats are current as of June 24th, 2023. (And hopefully this will be autom
 
 ### Batting Averages
 
-Below are players who have a difference of at least one standard deviation from their seasonal batting average in the games I've watched.
+Below are players who have a difference of at least two standard deviations from their seasonal batting average in the games I've watched.
 Additionally, I've filtered down the list to only include players for whom I've seen a decent number of at bats. Through advanced statistical analysis
 (Arbitrarily choosing a number that felt right) I've settled on only players whom I've seen at bat more than 10 times.
 
