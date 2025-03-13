@@ -9,31 +9,31 @@ permalink: /experience/
 
 Clinetic is a health software and technology company that utilizes electronic health record systems for research, evidence generation, and new care delivery models.
 
-- Migrated all microservices from Scala and Finatra to Java 17 and Spring, reducing boilerplate code and simplifying future development
-- Built a test framework for Elasticsearch and Mongodb, allowing developers to load the starting state with any data needed with tests, and compare the expected state of the data store to the actual state of the data store
-- Led the integration of test containers into microservices, allowing full end to end tests using the same infrastructure as live environments, and leading to fewer bugs and increased confidence in releases
-- Built a query engine capable of defining complex queries on electronic health records and identifying patients that fit into a study, skipping the manual task of combing records for these patients, all without the data leaving the healthcare system's network
-- Built a reporting engine capable of reading and querying data from a distributed set of installations at various healthcare systems, and then performing aggregations and calculations on that data, in order to let study sponsors see their data in real time
-- Built a seamless experience between a cloud based web app and a web app that is deployed on premise at various health systems, allowing users to work with reporting data in the cloud but work with patient data in the same app without data leaving the healthcare system's network
+- Designed and built a complex query engine capable of searching electronic health records, allowing clinicians to identify patients that fit eligibility criteria for clinical trials
+- Built a distributed reporting engine with support for complex calculations and aggregations across health systems
+- Led the integration of test containers into microservices, allowing full end-to-end tests using the same infrastructure as live environments, leading to increased confidence in releases
+- Created a CLI support tool to remotely support our application inside Kubernetes clusters at various health systems, allowing system admins to check logs and provide support from the UI
+- Pioneered the frontend migration to Kendo, converting existing components and greatly reducing development time
 
 ### FIS - Software Engineer
 #### June 2018 – March 2021
 
 FIS is a Fortune 500 company in Financial Technology, providing solutions to businesses all over the world
 
-- Led the effort to design and build a “Workflow Service” used to build and drive business processes using Flowable and Drools, allowing for robust, complex business logic with very little development effort
-- Act as a Tech Lead on a scrum team, leading the technical direction of the team and working with the Architecture team to gather requirements and build high quality solutions efficiently
-- Mentor new members of the team, helping them to get up to speed quickly while also ensuring they understand our software stack in order to become productive quickly
-- Give talks regularly on different parts of the project to a wide variety of audiences, from showing how to use different features in the site, to teaching about tools such as Openshift and Docker, to in-depth technical discussions on how we built our Workflow Service
+- Acted as a Tech Lead on a scrum team, guiding team members and collaborating with the Architecture team to gather requirements and build high quality solutions
+- Mentored newly graduated engineers, providing guidance on both technical and professional skills
+- Led the effort to design and build a Workflow Service used to build and drive business processes, allowing for robust business logic with very little development effort
+- Regularly presented to both technical and non-technical audiences, showcasing the application and the design behind it
 
 ### Taxaroo Inc. – Software Engineer
 #### December 2017 – June 2018
 
 Taxaroo (www.taxaroo.com) is a software startup in the tax preparation field, focused on improving workflow for tax professionals
 
-- Built a Value Calculator showing potential customers the time they can save using Taxaroo, with a conversion rate of 40%
 - Designed and developed a notification system, showing tax preparers when clients make changes to their information or upload new documents, streamlining communication between clients and tax preparers, and saving their customers time
-- Developed a system for tax firm administrators to view, sort, and filter reviews of their preparers, making the feedback they get from clients easier to find and highly actionable
+- Built a Value Calculator showing potential customers the time they can save using Taxaroo, with a conversion rate of 40%
+- Developed a system for tax firm administrators to view, sort, and filter reviews of their preparers, making the feedback they get from
+clients easier to find and highly actionable
 - Consulted on new feature development, gathering requirements from CEO and identifying edge cases prior to development
 - Developed a strong communications plan that allowed the team to collaborate effectively while working remotely
 
